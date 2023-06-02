@@ -1,0 +1,64 @@
+[
+  {
+    "file": "ShinDangRi_1240.glb", 
+    "meta": {
+      "address": "신당리 1240",
+      "complexNumber": 4,
+      "mapDiv": "B1",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.1482494,
+      "longitude": 128.441469,
+      "altitude": 85,
+      "heading": 90,
+      "pitch": 0,
+      "roll": 0,
+      "height": 10,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "소성레이저"
+      ]
+    }
+  },
+  {
+    "file": "ShinDangRi_1245.glb", 
+    "meta": {
+      "address": "신당리 1245",
+      "complexNumber": 4,
+      "mapDiv": "B2",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.149656,
+      "longitude": 128.442633,
+      "altitude": 85,
+      "heading": 90,
+      "pitch": 0,
+      "roll": 0,
+      "height": 11,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "(주)건엽", "(주)월드티엔에스", "랩메이트", "메타넷대우정보(주)", "세림테크"
+      ]
+    }
+  },
+  { 
+    "file": "ShinDangRi_1250.glb", 
+    "meta": {
+      "address": "신당리 1250",
+      "complexNumber": 4,
+      "mapDiv": "B1",
+      "latitude": 36.1487757,
+      "longitude": 128.442039,
+      "altitude": 85,
+      "heading": 90,
+      "pitch": 0,
+      "roll": 0,
+      "height": 6,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "금아ENG"
+      ]
+    }
+  }
+]

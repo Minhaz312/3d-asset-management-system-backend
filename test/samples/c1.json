@@ -1,0 +1,65 @@
+[
+  {
+    "file": "GongDanDong_115.glb", 
+    "meta": {
+      "address": "공단동 115",
+      "complexNumber": 1,
+      "mapDiv": "B1",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.1186704,
+      "longitude": 128.376745,
+      "altitude": 37,
+      "heading": 90,
+      "pitch": 0,
+      "roll": 0,
+      "height": 16,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "공단변전소"
+      ]
+    }
+  },
+  {
+    "file": "GongDanDong_120.glb", 
+    "meta": {
+      "address": "공단동 120",
+      "complexNumber": 1,
+      "mapDiv": "B1",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.1174105,
+      "longitude": 128.3796557,
+      "altitude": 33,
+      "heading": 90,
+      "pitch": 0,
+      "roll": 0,
+      "height": 10,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "(주)보성기전"
+      ]
+    }
+  },
+  {
+    "file": "GongDanDong_125.glb", 
+    "meta": {
+      "address": "공단동 125",
+      "complexNumber": 1,
+      "mapDiv": "B1",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.1174955,
+      "longitude": 128.3806963,
+      "altitude": 34,
+      "heading": 90,
+      "pitch": 0,
+      "roll": 0,
+      "height": 16,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "대영정밀"
+      ]
+    }
+  }
+]

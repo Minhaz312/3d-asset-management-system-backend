@@ -1,0 +1,5 @@
+apps:
+  - name: 'api-ams'
+    script: './index.js'
+    exec_mode: 'cluster'
+    instances: 0

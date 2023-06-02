@@ -1,0 +1,64 @@
+[
+  { 
+    "file": "ShimiDong_165.glb", 
+    "meta": {
+      "address": "시미동 165",
+      "complexNumber": 3,
+      "mapDiv": "B2",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.0918291,
+      "longitude": 128.4113125,
+      "altitude": 34,
+      "heading": 90,
+      "pitch": 0,
+      "roll": 0,
+      "height": 20,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "(주)퓨리텍", "예찬크리닝", "그린산업"
+      ]
+    }
+  },
+  { 
+    "file": "ShimiDong_166.glb", 
+    "meta": {
+      "address": "시미동 166",
+      "complexNumber": 3,
+      "mapDiv": "B1",
+      "latitude": 36.0872691,
+      "longitude": 128.4112157,
+      "altitude": 37,
+      "heading": 90,
+      "pitch": 0,
+      "roll": 0,
+      "height": 12,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "(주)에스.피.지 전자"
+      ]
+    }
+  },
+  { 
+    "file": "ShimiDong_167.glb", 
+    "meta": {
+      "address": "시미동 167",
+      "complexNumber": 3,
+      "mapDiv": "B1",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.08385,
+      "longitude": 128.411223,
+      "altitude": 37,
+      "heading": 90,
+      "pitch": 0,
+      "roll": 0,
+      "height": 13,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "(주)케이엠씨"
+      ]
+    }
+  }
+]

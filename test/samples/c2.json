@@ -1,0 +1,65 @@
+[
+  { 
+    "file": "Gupodong_621.glb", 
+    "meta": {
+      "address": "구포동 621",
+      "complexNumber": 2,
+      "mapDiv": "B2",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.1186704,
+      "longitude": 128.376745,
+      "altitude": 33,
+      "heading": 270,
+      "pitch": 0,
+      "roll": 0,
+      "height": 15,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "계림요업㈜", "케이엘테크"
+      ]
+    }
+  },
+  { 
+    "file": "Gupodong_622.glb", 
+    "meta": {
+      "address": "구포동 622",
+      "complexNumber": 2,
+      "mapDiv": "B3",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.1312343,
+      "longitude": 128.4123034,
+      "altitude": 25,
+      "heading": 270,
+      "pitch": 0,
+      "roll": 0,
+      "height": 10,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "대아수지공업"
+      ]
+    }
+  },
+  { 
+    "file": "Gupodong_633.glb", 
+    "meta": {
+      "address": "구포동 633",
+      "complexNumber": 2,
+      "mapDiv": "B1",
+      "origin": [128.3733621, 36.1102223, 0],
+      "latitude": 36.1219553,
+      "longitude": 128.4118364,
+      "altitude": 40,
+      "heading": 270,
+      "pitch": 0,
+      "roll": 0,
+      "height": 16,
+      "scale": 1,
+      "unique": true,
+      "modelNames": [
+        "인탑스 구미공장"
+      ]
+    }
+  }
+]

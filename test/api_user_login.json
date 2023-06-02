@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "data": {
+      "id": "6336fb85dfbd0c33a4937abd",
+      "username": "bmyi",
+      "mail": "bmyi@rockwonitglobal.com"
+    },
+    "message": "Logged in successfully",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dnZWRpbiI6dHJ1ZSwiaWQiOiI2MzM2ZmI4NWRmYmQwYzMzYTQ5MzdhYmQiLCJ1c2VybmFtZSI6ImJteWkiLCJpYXQiOjE2NjUzODQ0MTl9.HbDRK16LJCQ7TyStndMS2uYXlE0Pz8WxmNXw5W8DBiM"
+  }

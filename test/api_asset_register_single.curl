@@ -1,0 +1,25 @@
+curl -X 'POST' \
+  'http://220.118.147.52:46120/api/asset/register/single' \
+  -H 'accept: application/json' \
+  -H 'Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsb2dnZWRpbiI6dHJ1ZSwiaWQiOiI2MzM2ZmI4NWRmYmQwYzMzYTQ5MzdhYmQiLCJ1c2VybmFtZSI6ImJteWkiLCJpYXQiOjE2NjUzODQ0MTl9.HbDRK16LJCQ7TyStndMS2uYXlE0Pz8WxmNXw5W8DBiM' \
+  -H 'Content-Type: multipart/form-data' \
+  -F 'data={
+  "user": "bmyi",
+  "address": "공단동 115",
+  "complexNumber": 1,
+  "latitude": "36.1186704",
+  "longitude": "128.376745",
+  "altitude": "37",
+  "heading": "90",
+  "pitch": "0",
+  "roll": "0",
+  "height": "0",
+  "scale": "1",
+  "type": "Test",
+  "resolution": "512",
+  "unique": "true",
+  "modelName": [
+    "공단변전소"
+  ]
+}' \
+  -F 'singleModel=@GongDanDong_115.glb'
