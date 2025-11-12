@@ -1,5 +1,9 @@
 # 3D AMS Backend API
 
+## Technologies used
+1) NodeJS & ExpressJS
+2) MongoDB
+
 ## Project setup
 ```
 npm install
